@@ -20,4 +20,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 #### Step 4
+
+Make a task list
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 ##### Step 5
